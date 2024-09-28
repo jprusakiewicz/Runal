@@ -13,7 +13,7 @@ COCO_KEYPOINTS = [
 ]
 
 app = FastAPI()
-model = YOLO('yolov8s-pose.pt')
+model = YOLO('yolo-model.pt')
 
 @app.get("/")
 def read_root():

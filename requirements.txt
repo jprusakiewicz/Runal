@@ -1,0 +1,7 @@
+Pillow
+numpy
+ultralytics
+fastapi
+uvicorn
+python-multipart
+streamlit
